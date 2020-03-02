@@ -1,0 +1,142 @@
+02-Dec-2019 10:23:02:0002
+ ** OTP request ** 
+{"phoneNo":"+2348050827453","OTP":"48262"}
+
+ ** OTP response ** 
+{
+  "responseCode": "07",
+  "responseMessage": "Check your query"
+}
+
+02-Dec-2019 10:23:32:0032
+ ** OTP request ** 
+{"phoneNo":"+2348050827453","OTP":"48262"}
+
+ ** OTP response ** 
+{
+  "responseCode": "07",
+  "responseMessage": "Check your query"
+}
+
+02-Dec-2019 10:32:56:0056
+ ** OTP request ** 
+{"phoneNo":"+2348050827453","OTP":"48262"}
+
+ ** OTP response ** 
+{
+  "responseCode": "00",
+  "responseMessage": "Successful"
+}
+
+02-Dec-2019 12:59:48:0048
+ ** Account Info request ** 
+3002015994
+
+ ** Account Info response ** 
+{
+  "accountName": "ANENU PATIENCE",
+  "accountNumber": "3002015994",
+  "accountStatus": "D",
+  "accountType": "DP",
+  "ledgerBalance": "******",
+  "currencyCode": "NGN",
+  "bankVerificationNumber": "*****",
+  "phoneNumber": "+2348144279909",
+  "accessPin": "*****"
+}
+
+02-Dec-2019 12:59:48:0048
+ ** Register Device request ** 
+{
+	"accessPin": "2002077839",
+	"initiatingApp": "MAPP",
+	"phoneNumber": "+234555888999",
+	"accountNumber": "3002015994",
+	"deviceUIID": "1234567UIID",
+	"password": "password"
+}
+
+ ** Register Device response ** 
+{
+  "accountNumber": "3002015994",
+  "phoneNo": "+234555888999",
+  "deviceUIID": "1234567UIID",
+  "password": "password",
+  "accessPin": "2002077839",
+  "responseCode": "00",
+  "responseMessage": "Successful"
+}
+
+02-Dec-2019 01:05:20:0020
+ ** Account Info request ** 
+2002077839
+
+ ** Account Info response ** 
+{
+  "accountName": "OSAH LUCKY",
+  "accountNumber": "2002077839",
+  "accountStatus": "A",
+  "accountType": "DP",
+  "ledgerBalance": "******",
+  "currencyCode": "NGN",
+  "bankVerificationNumber": "*****",
+  "phoneNumber": "",
+  "accessPin": "*****"
+}
+
+02-Dec-2019 01:05:20:0020
+ ** Register Device request ** 
+{
+	"accessPin": "1234",
+	"initiatingApp": "MAPP",
+	"phoneNumber": "+234555888999",
+	"accountNumber": "2002077839",
+	"deviceUIID": "1234567UIID",
+	"password": "password"
+}
+
+ ** Register Device response ** 
+{
+  "accountNumber": "2002077839",
+  "phoneNo": "+234555888999",
+  "deviceUIID": "1234567UIID",
+  "password": "password",
+  "accessPin": "1234",
+  "responseCode": "00",
+  "responseMessage": "Successful"
+}
+
+02-Dec-2019 01:05:38:0038
+ ** Account Info request ** 
+2002077839
+
+ ** Account Info response ** 
+{
+  "accountName": "OSAH LUCKY",
+  "accountNumber": "2002077839",
+  "accountStatus": "A",
+  "accountType": "DP",
+  "ledgerBalance": "******",
+  "currencyCode": "NGN",
+  "bankVerificationNumber": "*****",
+  "phoneNumber": "",
+  "accessPin": "*****"
+}
+
+02-Dec-2019 01:05:38:0038
+ ** Register Device request ** 
+{
+	"accessPin": "1234",
+	"initiatingApp": "MAPP",
+	"phoneNumber": "+234555888999",
+	"accountNumber": "2002077839",
+	"deviceUIID": "12345678UIID",
+	"password": "password"
+}
+
+ ** Register Device response ** 
+{
+  "responseCode": "15",
+  "responseMessage": "Device UIID does not match"
+}
+

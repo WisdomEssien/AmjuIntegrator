@@ -1,0 +1,30 @@
+14-Jan-2020 12:32:39:0039
+ ** Login request ** 
+{
+  "accountNumber": "2002080634",
+  "deviceUIID": "e07fb19dd988074d",
+  "password": "J3VWANNHTEQsQsnMZCr4Kg\u003d\u003d",
+  "appVersion": "0.2.4"
+}
+
+ ** Login response ** 
+{
+  "responseCode": "15",
+  "responseMessage": "Device UIID does not match"
+}
+
+14-Jan-2020 12:34:01:0001
+ ** Login request ** 
+{
+  "accountNumber": "2002080634",
+  "deviceUIID": "23a8dc4a20b248b0",
+  "password": "J3VWANNHTEQsQsnMZCr4Kg\u003d\u003d",
+  "appVersion": "0.2.4"
+}
+
+ ** Login response ** 
+{
+  "responseCode": "14",
+  "responseMessage": "License has expired"
+}
+

@@ -1,0 +1,9 @@
+<QuicktellerInfo>
+	<BaseUrl>https://sandbox.interswitchng.com/</BaseUrl>
+	<ClientId>IKIA9614B82064D632E9B6418DF358A6A4AEA84D7218</ClientId>
+	<ClientSecret>XCTiBtLy1G9chAnyg0z3BcaFK4cVpwDg/GTw2EmjTZ8=</ClientSecret>
+	<TransferCodePrefix>1453</TransferCodePrefix>
+	<TerminalId>3DMO0001</TerminalId>
+	<InitiatingEntityCode>DMO</InitiatingEntityCode>
+	<SignatureMethod>SHA1</SignatureMethod>
+</QuicktellerInfo>

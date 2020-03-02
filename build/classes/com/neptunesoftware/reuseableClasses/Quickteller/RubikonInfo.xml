@@ -1,0 +1,30 @@
+<RubikonInfo>
+	<IPAddress>0onFdyAQCw/YECqFWUL+tA==</IPAddress>
+	<PortNumber>quc394khoP610E7PkD1boQ==</PortNumber>
+	<ChannelId>h4RREzvUwRUVh+GDS8+T5w==</ChannelId>
+	<ChannelCode>qfx5shj96GlwVSBSaU9lqA==</ChannelCode>
+	<TransactionFee>IyRwhUViJ6cXNo7dCmR0ug==</TransactionFee>
+	<ChargeCode>E/xL3frALF8znmMs/n6KQg==</ChargeCode>
+	<TaxCode>ksg44o3Zljw+dvLj8tIrKw==</TaxCode>
+	<CurrencyCode>rrb5KNFsbk7sB/iJops7gA==</CurrencyCode>
+	<FundTransferCredit>xG1T3djvG0kjjWV5arXQNQ==</FundTransferCredit>
+	<FundTransferDebit>sO0hvOBsXkkiVUwOvyLlWQ==</FundTransferDebit>
+	<BillsPaymentCredit>IfZ+V6DNQA5cn3oo6kRUNw==</BillsPaymentCredit>
+	<BillsPaymentDebit>3ds0MvDsqYJ4XXOlRFWNcA==</BillsPaymentDebit>
+	<MobileRechargeCredit>eLNzR4a1iYa9b6/vip6fwg==</MobileRechargeCredit>
+	<MobileRechargeDebit>IxMewENo6UcyJmJEBJIjOQ==</MobileRechargeDebit>
+	<AuthenticatedUsername>kHlfDbiWBorK6wd/ZZDjIw==</AuthenticatedUsername>
+	<AuthenticatedPassword>/ymAHSx3IWk+6BpmDqpN6w==</AuthenticatedPassword>
+	<TransferLimitInternal>Ka+1xIhfDvF46K3/XPsJPg==</TransferLimitInternal>
+	<TransferLimitExternal>0+TQTsv66Vh6WPC2gZFrJg==</TransferLimitExternal>
+	<ApplicationUsername>YcNjtvt1mbDrDhXaMf4F7A==</ApplicationUsername>
+	<ChargeCodeBillsPayment>Dd3SluRINnyjYBJsAG0wEQ==</ChargeCodeBillsPayment>
+	<AuthenticateService>false</AuthenticateService>
+	<CompatibleVersion>0.2.4</CompatibleVersion>
+	<LicenceInfo>20200114</LicenceInfo>
+	<AlertPeriodInDays>31</AlertPeriodInDays>
+	<GracePeriodInDays>0</GracePeriodInDays>
+	<MailRecipient>
+		<EmailAddress>Fr4S56VGWcpYwfPv9xzlKNzK4fgF8sQcfuJUPBf9PI2LSon5GWOU9zCRJCfhUOk1</EmailAddress>
+	</MailRecipient>
+</RubikonInfo>
